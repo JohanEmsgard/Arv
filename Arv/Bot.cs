@@ -1,6 +1,6 @@
 using System;
 
-public class Bot
+public class Bot : soldier
 {
     public int Difficulty { get; set; }
 }
