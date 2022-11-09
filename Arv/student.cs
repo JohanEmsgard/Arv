@@ -2,5 +2,10 @@ using System;
 
 public class student : Human
 {
-    public int Study { get; set; }
+    public string School { get; set; } = "NTI";
+
+    public student()
+    {
+        age = 15; 
+    }
 }

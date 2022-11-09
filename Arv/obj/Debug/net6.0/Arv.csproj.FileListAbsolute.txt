@@ -1,0 +1,15 @@
+C:\Users\emsgard.johan\Programering 2\Arv\Arv\bin\Debug\net6.0\Arv.exe
+C:\Users\emsgard.johan\Programering 2\Arv\Arv\bin\Debug\net6.0\Arv.deps.json
+C:\Users\emsgard.johan\Programering 2\Arv\Arv\bin\Debug\net6.0\Arv.runtimeconfig.json
+C:\Users\emsgard.johan\Programering 2\Arv\Arv\bin\Debug\net6.0\Arv.dll
+C:\Users\emsgard.johan\Programering 2\Arv\Arv\bin\Debug\net6.0\Arv.pdb
+C:\Users\emsgard.johan\Programering 2\Arv\Arv\obj\Debug\net6.0\Arv.csproj.AssemblyReference.cache
+C:\Users\emsgard.johan\Programering 2\Arv\Arv\obj\Debug\net6.0\Arv.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emsgard.johan\Programering 2\Arv\Arv\obj\Debug\net6.0\Arv.AssemblyInfoInputs.cache
+C:\Users\emsgard.johan\Programering 2\Arv\Arv\obj\Debug\net6.0\Arv.AssemblyInfo.cs
+C:\Users\emsgard.johan\Programering 2\Arv\Arv\obj\Debug\net6.0\Arv.csproj.CoreCompileInputs.cache
+C:\Users\emsgard.johan\Programering 2\Arv\Arv\obj\Debug\net6.0\Arv.dll
+C:\Users\emsgard.johan\Programering 2\Arv\Arv\obj\Debug\net6.0\refint\Arv.dll
+C:\Users\emsgard.johan\Programering 2\Arv\Arv\obj\Debug\net6.0\Arv.pdb
+C:\Users\emsgard.johan\Programering 2\Arv\Arv\obj\Debug\net6.0\Arv.genruntimeconfig.cache
+C:\Users\emsgard.johan\Programering 2\Arv\Arv\obj\Debug\net6.0\ref\Arv.dll
